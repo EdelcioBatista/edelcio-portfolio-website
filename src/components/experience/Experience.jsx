@@ -23,7 +23,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>HTML</h4>
-                <small className='text-light'>{t('Intermediário')}</small>
+                <small className='text-light'>{t('Básico')}</small>
               </div>
             </article>
 
@@ -31,7 +31,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>CSS</h4>
-                <small className='text-light'>{t('Intermediário')}</small>
+                <small className='text-light'>{t('Básico')}</small>
               </div>
             </article>
 
@@ -39,7 +39,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>JavaScript</h4>
-                <small className='text-light'>{t('Intermediário')}</small>
+                <small className='text-light'>{t('Básico')}</small>
               </div>
             </article>
 
@@ -47,7 +47,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>TypeScript</h4>
-                <small className='text-light'>{t('Intermediário')}</small>
+                <small className='text-light'>{t('Básico')}</small>
               </div>
             </article>
 
@@ -55,7 +55,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>React JS</h4>
-                <small className='text-light'>{t('Intermediário')}</small>
+                <small className='text-light'>{t('Básico')}</small>
               </div>
             </article>
 
@@ -63,7 +63,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>Next JS</h4>
-                <small className='text-light'>{t('Intermediário')}</small>
+                <small className='text-light'>{t('Básico')}</small>
               </div>
             </article>
 
@@ -106,7 +106,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>Postgree SQL</h4>
-                <small className='text-light'>{t('Intermediário')}</small>
+                <small className='text-light'>{t('Básico')}</small>
               </div>
             </article>
 
