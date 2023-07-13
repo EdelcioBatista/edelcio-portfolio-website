@@ -57,7 +57,7 @@ const Portfolio = () => {
                 </div>
                 <h3>{t('Quadro de tarefas')}</h3>
                 <div className="portfolio__item-cta">
-                    <a href="https://github.com/EdelcioBatista/board" className='btn' target='_blank' rel="noreferrer">Github</a>
+                    <a href="https://github.com/EdelcioBatista" className='btn' target='_blank' rel="noreferrer">Github</a>
                     <a href="https://board-edelcio.netlify.app/" className='btn btn-primary' target='_blank' rel="noreferrer">{t('Demonstração')}</a>
                 </div>
             </article>
